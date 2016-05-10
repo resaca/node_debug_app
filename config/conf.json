@@ -1,0 +1,8 @@
+{
+  "dbHost": "localhost",
+  "dbName": "myapp_db",
+  "sessionStore": "myapp_session_store",
+  "secret": "secretmyapp",
+  "phone_verify_customer_id": "dhudjhsnd7",
+  "phone_verify_app_key": "sdksbdjnskdsbdjsndksdbsjndksnd"
+}
